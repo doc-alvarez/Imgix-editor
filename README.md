@@ -1,4 +1,4 @@
-# React App build for Nanlabs challenge
+# React App build
 
 # Clone the REpo.
 
